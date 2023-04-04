@@ -1,6 +1,6 @@
 # "Weather app!"
 
-A sipmle application that uses an open weather API. You can find it here https://rapidapi.com/hub.
+A simple application that uses an open weather API. You can find it here https://rapidapi.com/hub.
 
 ## HOW TO USE IT?
 
